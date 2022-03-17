@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyubora&count_bg=%234B2C96&title_bg=%234B2C96&icon=&icon_color=%23E7E7E7&title=welcome%E2%9C%A8&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
 <!--
