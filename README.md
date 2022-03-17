@@ -1,10 +1,14 @@
 
 # YU BORA [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyubora&count_bg=%234B2C96&title_bg=%234B2C96&icon=&icon_color=%23E7E7E7&title=welcome%E2%9C%A8&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purple29b@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:purple29b@naver.com)](mailto:rlatngus1691@naver.com)
-[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=mailto:project8@kakao.com)](mailto:project8@kakao.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=to:https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)](https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)
+[![Gmail Badge](https://img.shields.io/badge/purple29b@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purple29b@gmail.com)](mailto:kimsh1691@gmail.com)
 
+
+<!--
+[![Naver Badge](https://img.shields.io/badge/purple29b@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:purple29b@naver.com)](mailto:rlatngus1691@naver.com)
+[![Kakao Badge](https://img.shields.io/badge/project8@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=mailto:project8@kakao.com)](mailto:project8@kakao.com)
+-->
 
 
 
