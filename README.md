@@ -48,3 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <!--git-->
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> <!--intelliJ-->
 </p>
+
+## 📈 Stats
+<div align="center">
+  
+  ![purple's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubora&show_icons=true&theme=material-palenight)&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubora&layout=compact&theme=material-palenight)
+  
+</div>
