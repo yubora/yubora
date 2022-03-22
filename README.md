@@ -2,7 +2,7 @@
 # YU BORA [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyubora&count_bg=%234B2C96&title_bg=%234B2C96&icon=&icon_color=%23E7E7E7&title=welcome%E2%9C%A8&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--[![Notion Badge](https://img.shields.io/badge/Notion-3A3A3A?style=flat-square&logo=Notion&logoColor=white&link=to:https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)](https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)-->
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=to:https://velog.io/@purple)](https://velog.io/@purple)
+[![Velog Badge](https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=to:https://velog.io/@purple)](https://velog.io/@purple)
 [![Gmail Badge](https://img.shields.io/badge/purple29b@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purple29b@gmail.com)](mailto:kimsh1691@gmail.com)
 
 
