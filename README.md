@@ -3,7 +3,7 @@
 
 <!--[![Notion Badge](https://img.shields.io/badge/Notion-3A3A3A?style=flat-square&logo=Notion&logoColor=white&link=to:https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)](https://spectacled-ellipse-76d.notion.site/_-6e65c1eb648144c788aff14ed627a8db)-->
 [![Velog Badge](https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=to:https://velog.io/@purple)](https://velog.io/@purple)
-[![Gmail Badge](https://img.shields.io/badge/purple29b@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purple29b@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/purple29b@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamyubora@gmail.com)](mailto:kimsh1691@gmail.com)
 
 
 <!--
